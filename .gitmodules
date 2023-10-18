@@ -1,0 +1,6 @@
+[submodule "php-openal"]
+	path = php-openal
+	url = https://github.com/Ponup/php-openal.git
+[submodule "openal-soft"]
+	path = openal-soft
+	url = https://github.com/kcat/openal-soft.git
