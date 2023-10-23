@@ -26,3 +26,13 @@ sudo make install
 ```
 extension=openal
 ```
+
+## example
+
+php-openalに同梱されているサンプルを実行する
+```
+cp -r ./php-openal/examples examples
+cd examlpes
+composer install
+php example.php
+```
